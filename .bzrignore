@@ -3,6 +3,7 @@
 vendor/
 node_modules/
 README.md
+.bzrignore
 
 # Laravel 4 specific
 bootstrap/compiled.php
