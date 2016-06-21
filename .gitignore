@@ -4,6 +4,7 @@ vendor/
 node_modules/
 README.md
 contribute.md
+.idea/
 
 # Laravel 4 specific
 bootstrap/compiled.php
