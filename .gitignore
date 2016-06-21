@@ -2,6 +2,7 @@
 ### Laravel template
 vendor/
 node_modules/
+.idea/
 README.md
 
 # Laravel 4 specific
