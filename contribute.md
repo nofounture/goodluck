@@ -5,3 +5,4 @@ it s  a contribute test file!!
 test uncommitted file line 5!!
 test uncommitted file line 6!!
 test uncommitted file line 7!!
+test uncommitted file line 8!!
