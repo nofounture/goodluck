@@ -3,7 +3,6 @@
 vendor/
 node_modules/
 README.md
-contribute.md
 .idea/workspace.xml
 
 # Laravel 4 specific
