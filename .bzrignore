@@ -2,7 +2,7 @@
 ### Laravel template
 vendor/
 node_modules/
-README.md
+#README.md
 .bzrignore
 
 # Laravel 4 specific
