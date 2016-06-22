@@ -1,3 +1,5 @@
 [submodule "hello-world"]
 	path = hello-world
 	url = https://github.com/nofounture/hello-world
+	branch = stable
+
