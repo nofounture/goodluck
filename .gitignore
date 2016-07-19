@@ -6,6 +6,7 @@ README.md
 contribute.md
 .idea/workspace.xml
 test_ignore
+
 # Laravel 4 specific
 bootstrap/compiled.php
 app/storage/
@@ -18,4 +19,6 @@ bootstrap/cache/
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+
 
