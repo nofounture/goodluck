@@ -2,9 +2,8 @@
 ### Laravel template
 vendor/
 node_modules/
-README.md
-contribute.md
 .idea/workspace.xml
+.gitignore
 test_ignore
 
 # Laravel 4 specific
